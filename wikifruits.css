@@ -1,0 +1,36 @@
+body{
+    background-color: darkgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
+nav{
+    background-color: lightgray;
+    padding: 5px;
+    margin: auto;
+    border-radius: 5px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    background-color: gray;
+    padding: 3px;
+    border-radius: 2px;
+}
+nav a:hover{
+    color: black;
+    background-color: yellow;
+    text-decoration: underline;
+}
+main{
+    background-color: white;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
