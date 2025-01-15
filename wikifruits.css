@@ -34,3 +34,8 @@ main{
     margin: 5px;
     border-radius: 5px;
 }
+#ilha_title{
+    background-image: linear-gradient(to right, lightgreen, white);
+    padding: 5px;
+    border-radius: 5px;
+}
